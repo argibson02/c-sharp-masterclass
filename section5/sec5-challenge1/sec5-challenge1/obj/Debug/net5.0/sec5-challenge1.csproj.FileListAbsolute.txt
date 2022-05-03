@@ -1,0 +1,16 @@
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section5\sec5-challenge1\sec5-challenge1\bin\Debug\net5.0\sec5-challenge1.exe
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section5\sec5-challenge1\sec5-challenge1\bin\Debug\net5.0\sec5-challenge1.deps.json
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section5\sec5-challenge1\sec5-challenge1\bin\Debug\net5.0\sec5-challenge1.runtimeconfig.json
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section5\sec5-challenge1\sec5-challenge1\bin\Debug\net5.0\sec5-challenge1.runtimeconfig.dev.json
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section5\sec5-challenge1\sec5-challenge1\bin\Debug\net5.0\sec5-challenge1.dll
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section5\sec5-challenge1\sec5-challenge1\bin\Debug\net5.0\sec5-challenge1.pdb
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section5\sec5-challenge1\sec5-challenge1\obj\Debug\net5.0\sec5-challenge1.csproj.AssemblyReference.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section5\sec5-challenge1\sec5-challenge1\obj\Debug\net5.0\sec5-challenge1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section5\sec5-challenge1\sec5-challenge1\obj\Debug\net5.0\sec5-challenge1.AssemblyInfoInputs.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section5\sec5-challenge1\sec5-challenge1\obj\Debug\net5.0\sec5-challenge1.AssemblyInfo.cs
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section5\sec5-challenge1\sec5-challenge1\obj\Debug\net5.0\sec5-challenge1.csproj.CoreCompileInputs.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section5\sec5-challenge1\sec5-challenge1\obj\Debug\net5.0\sec5-challenge1.dll
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section5\sec5-challenge1\sec5-challenge1\obj\Debug\net5.0\refint\sec5-challenge1.dll
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section5\sec5-challenge1\sec5-challenge1\obj\Debug\net5.0\sec5-challenge1.pdb
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section5\sec5-challenge1\sec5-challenge1\obj\Debug\net5.0\sec5-challenge1.genruntimeconfig.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section5\sec5-challenge1\sec5-challenge1\obj\Debug\net5.0\ref\sec5-challenge1.dll

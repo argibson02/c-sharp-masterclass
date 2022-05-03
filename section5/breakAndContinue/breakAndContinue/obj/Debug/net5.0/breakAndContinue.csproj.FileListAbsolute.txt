@@ -1,0 +1,16 @@
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section5\breakAndContinue\breakAndContinue\bin\Debug\net5.0\breakAndContinue.exe
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section5\breakAndContinue\breakAndContinue\bin\Debug\net5.0\breakAndContinue.deps.json
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section5\breakAndContinue\breakAndContinue\bin\Debug\net5.0\breakAndContinue.runtimeconfig.json
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section5\breakAndContinue\breakAndContinue\bin\Debug\net5.0\breakAndContinue.runtimeconfig.dev.json
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section5\breakAndContinue\breakAndContinue\bin\Debug\net5.0\breakAndContinue.dll
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section5\breakAndContinue\breakAndContinue\bin\Debug\net5.0\breakAndContinue.pdb
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section5\breakAndContinue\breakAndContinue\obj\Debug\net5.0\breakAndContinue.csproj.AssemblyReference.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section5\breakAndContinue\breakAndContinue\obj\Debug\net5.0\breakAndContinue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section5\breakAndContinue\breakAndContinue\obj\Debug\net5.0\breakAndContinue.AssemblyInfoInputs.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section5\breakAndContinue\breakAndContinue\obj\Debug\net5.0\breakAndContinue.AssemblyInfo.cs
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section5\breakAndContinue\breakAndContinue\obj\Debug\net5.0\breakAndContinue.csproj.CoreCompileInputs.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section5\breakAndContinue\breakAndContinue\obj\Debug\net5.0\breakAndContinue.dll
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section5\breakAndContinue\breakAndContinue\obj\Debug\net5.0\refint\breakAndContinue.dll
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section5\breakAndContinue\breakAndContinue\obj\Debug\net5.0\breakAndContinue.pdb
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section5\breakAndContinue\breakAndContinue\obj\Debug\net5.0\breakAndContinue.genruntimeconfig.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section5\breakAndContinue\breakAndContinue\obj\Debug\net5.0\ref\breakAndContinue.dll

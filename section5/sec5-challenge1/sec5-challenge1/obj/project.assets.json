@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alexg\\source\\repos\\c#work\\c-sharp-masterclass\\section5\\breakAndContinue\\breakAndContinue\\breakAndContinue.csproj",
-      "projectName": "breakAndContinue",
-      "projectPath": "C:\\Users\\alexg\\source\\repos\\c#work\\c-sharp-masterclass\\section5\\breakAndContinue\\breakAndContinue\\breakAndContinue.csproj",
+      "projectUniqueName": "C:\\Users\\alexg\\source\\repos\\c#work\\c-sharp-masterclass\\section5\\sec5-challenge1\\sec5-challenge1\\sec5-challenge1.csproj",
+      "projectName": "sec5-challenge1",
+      "projectPath": "C:\\Users\\alexg\\source\\repos\\c#work\\c-sharp-masterclass\\section5\\sec5-challenge1\\sec5-challenge1\\sec5-challenge1.csproj",
       "packagesPath": "C:\\Users\\alexg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alexg\\source\\repos\\c#work\\c-sharp-masterclass\\section5\\breakAndContinue\\breakAndContinue\\obj\\",
+      "outputPath": "C:\\Users\\alexg\\source\\repos\\c#work\\c-sharp-masterclass\\section5\\sec5-challenge1\\sec5-challenge1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alexg\\AppData\\Roaming\\NuGet\\NuGet.Config",
