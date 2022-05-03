@@ -1,0 +1,16 @@
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section6\firstClass\firstClass\bin\Debug\net5.0\firstClass.exe
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section6\firstClass\firstClass\bin\Debug\net5.0\firstClass.deps.json
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section6\firstClass\firstClass\bin\Debug\net5.0\firstClass.runtimeconfig.json
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section6\firstClass\firstClass\bin\Debug\net5.0\firstClass.runtimeconfig.dev.json
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section6\firstClass\firstClass\bin\Debug\net5.0\firstClass.dll
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section6\firstClass\firstClass\bin\Debug\net5.0\firstClass.pdb
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section6\firstClass\firstClass\obj\Debug\net5.0\firstClass.csproj.AssemblyReference.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section6\firstClass\firstClass\obj\Debug\net5.0\firstClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section6\firstClass\firstClass\obj\Debug\net5.0\firstClass.AssemblyInfoInputs.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section6\firstClass\firstClass\obj\Debug\net5.0\firstClass.AssemblyInfo.cs
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section6\firstClass\firstClass\obj\Debug\net5.0\firstClass.csproj.CoreCompileInputs.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section6\firstClass\firstClass\obj\Debug\net5.0\firstClass.dll
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section6\firstClass\firstClass\obj\Debug\net5.0\refint\firstClass.dll
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section6\firstClass\firstClass\obj\Debug\net5.0\firstClass.pdb
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section6\firstClass\firstClass\obj\Debug\net5.0\firstClass.genruntimeconfig.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section6\firstClass\firstClass\obj\Debug\net5.0\ref\firstClass.dll

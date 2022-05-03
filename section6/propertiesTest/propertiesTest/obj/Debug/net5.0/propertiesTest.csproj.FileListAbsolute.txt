@@ -1,0 +1,16 @@
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section6\propertiesTest\propertiesTest\bin\Debug\net5.0\propertiesTest.exe
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section6\propertiesTest\propertiesTest\bin\Debug\net5.0\propertiesTest.deps.json
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section6\propertiesTest\propertiesTest\bin\Debug\net5.0\propertiesTest.runtimeconfig.json
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section6\propertiesTest\propertiesTest\bin\Debug\net5.0\propertiesTest.runtimeconfig.dev.json
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section6\propertiesTest\propertiesTest\bin\Debug\net5.0\propertiesTest.dll
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section6\propertiesTest\propertiesTest\bin\Debug\net5.0\propertiesTest.pdb
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section6\propertiesTest\propertiesTest\obj\Debug\net5.0\propertiesTest.csproj.AssemblyReference.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section6\propertiesTest\propertiesTest\obj\Debug\net5.0\propertiesTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section6\propertiesTest\propertiesTest\obj\Debug\net5.0\propertiesTest.AssemblyInfoInputs.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section6\propertiesTest\propertiesTest\obj\Debug\net5.0\propertiesTest.AssemblyInfo.cs
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section6\propertiesTest\propertiesTest\obj\Debug\net5.0\propertiesTest.csproj.CoreCompileInputs.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section6\propertiesTest\propertiesTest\obj\Debug\net5.0\propertiesTest.dll
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section6\propertiesTest\propertiesTest\obj\Debug\net5.0\refint\propertiesTest.dll
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section6\propertiesTest\propertiesTest\obj\Debug\net5.0\propertiesTest.pdb
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section6\propertiesTest\propertiesTest\obj\Debug\net5.0\propertiesTest.genruntimeconfig.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section6\propertiesTest\propertiesTest\obj\Debug\net5.0\ref\propertiesTest.dll

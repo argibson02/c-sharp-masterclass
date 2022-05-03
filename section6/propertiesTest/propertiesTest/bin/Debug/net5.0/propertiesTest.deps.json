@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "propertiesTest/1.0.0": {
+        "runtime": {
+          "propertiesTest.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "propertiesTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

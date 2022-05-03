@@ -1,0 +1,16 @@
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section6\MembersTest\MembersTest\bin\Debug\net5.0\MembersTest.exe
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section6\MembersTest\MembersTest\bin\Debug\net5.0\MembersTest.deps.json
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section6\MembersTest\MembersTest\bin\Debug\net5.0\MembersTest.runtimeconfig.json
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section6\MembersTest\MembersTest\bin\Debug\net5.0\MembersTest.runtimeconfig.dev.json
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section6\MembersTest\MembersTest\bin\Debug\net5.0\MembersTest.dll
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section6\MembersTest\MembersTest\bin\Debug\net5.0\MembersTest.pdb
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section6\MembersTest\MembersTest\obj\Debug\net5.0\MembersTest.csproj.AssemblyReference.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section6\MembersTest\MembersTest\obj\Debug\net5.0\MembersTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section6\MembersTest\MembersTest\obj\Debug\net5.0\MembersTest.AssemblyInfoInputs.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section6\MembersTest\MembersTest\obj\Debug\net5.0\MembersTest.AssemblyInfo.cs
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section6\MembersTest\MembersTest\obj\Debug\net5.0\MembersTest.csproj.CoreCompileInputs.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section6\MembersTest\MembersTest\obj\Debug\net5.0\MembersTest.dll
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section6\MembersTest\MembersTest\obj\Debug\net5.0\refint\MembersTest.dll
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section6\MembersTest\MembersTest\obj\Debug\net5.0\MembersTest.pdb
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section6\MembersTest\MembersTest\obj\Debug\net5.0\MembersTest.genruntimeconfig.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section6\MembersTest\MembersTest\obj\Debug\net5.0\ref\MembersTest.dll
