@@ -1,0 +1,16 @@
+C:\Users\alexg\source\repos\c#work\ImplicientConversion\stringManipulation\bin\Debug\net5.0\stringManipulation.exe
+C:\Users\alexg\source\repos\c#work\ImplicientConversion\stringManipulation\bin\Debug\net5.0\stringManipulation.deps.json
+C:\Users\alexg\source\repos\c#work\ImplicientConversion\stringManipulation\bin\Debug\net5.0\stringManipulation.runtimeconfig.json
+C:\Users\alexg\source\repos\c#work\ImplicientConversion\stringManipulation\bin\Debug\net5.0\stringManipulation.runtimeconfig.dev.json
+C:\Users\alexg\source\repos\c#work\ImplicientConversion\stringManipulation\bin\Debug\net5.0\stringManipulation.dll
+C:\Users\alexg\source\repos\c#work\ImplicientConversion\stringManipulation\bin\Debug\net5.0\stringManipulation.pdb
+C:\Users\alexg\source\repos\c#work\ImplicientConversion\stringManipulation\obj\Debug\net5.0\stringManipulation.csproj.AssemblyReference.cache
+C:\Users\alexg\source\repos\c#work\ImplicientConversion\stringManipulation\obj\Debug\net5.0\stringManipulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexg\source\repos\c#work\ImplicientConversion\stringManipulation\obj\Debug\net5.0\stringManipulation.AssemblyInfoInputs.cache
+C:\Users\alexg\source\repos\c#work\ImplicientConversion\stringManipulation\obj\Debug\net5.0\stringManipulation.AssemblyInfo.cs
+C:\Users\alexg\source\repos\c#work\ImplicientConversion\stringManipulation\obj\Debug\net5.0\stringManipulation.csproj.CoreCompileInputs.cache
+C:\Users\alexg\source\repos\c#work\ImplicientConversion\stringManipulation\obj\Debug\net5.0\stringManipulation.dll
+C:\Users\alexg\source\repos\c#work\ImplicientConversion\stringManipulation\obj\Debug\net5.0\refint\stringManipulation.dll
+C:\Users\alexg\source\repos\c#work\ImplicientConversion\stringManipulation\obj\Debug\net5.0\stringManipulation.pdb
+C:\Users\alexg\source\repos\c#work\ImplicientConversion\stringManipulation\obj\Debug\net5.0\stringManipulation.genruntimeconfig.cache
+C:\Users\alexg\source\repos\c#work\ImplicientConversion\stringManipulation\obj\Debug\net5.0\ref\stringManipulation.dll

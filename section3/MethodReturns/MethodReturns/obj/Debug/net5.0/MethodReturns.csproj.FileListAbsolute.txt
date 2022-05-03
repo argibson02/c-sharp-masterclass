@@ -1,0 +1,16 @@
+C:\Users\alexg\source\repos\c#work\section3\MethodReturns\MethodReturns\bin\Debug\net5.0\MethodReturns.exe
+C:\Users\alexg\source\repos\c#work\section3\MethodReturns\MethodReturns\bin\Debug\net5.0\MethodReturns.deps.json
+C:\Users\alexg\source\repos\c#work\section3\MethodReturns\MethodReturns\bin\Debug\net5.0\MethodReturns.runtimeconfig.json
+C:\Users\alexg\source\repos\c#work\section3\MethodReturns\MethodReturns\bin\Debug\net5.0\MethodReturns.runtimeconfig.dev.json
+C:\Users\alexg\source\repos\c#work\section3\MethodReturns\MethodReturns\bin\Debug\net5.0\MethodReturns.dll
+C:\Users\alexg\source\repos\c#work\section3\MethodReturns\MethodReturns\bin\Debug\net5.0\MethodReturns.pdb
+C:\Users\alexg\source\repos\c#work\section3\MethodReturns\MethodReturns\obj\Debug\net5.0\MethodReturns.csproj.AssemblyReference.cache
+C:\Users\alexg\source\repos\c#work\section3\MethodReturns\MethodReturns\obj\Debug\net5.0\MethodReturns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexg\source\repos\c#work\section3\MethodReturns\MethodReturns\obj\Debug\net5.0\MethodReturns.AssemblyInfoInputs.cache
+C:\Users\alexg\source\repos\c#work\section3\MethodReturns\MethodReturns\obj\Debug\net5.0\MethodReturns.AssemblyInfo.cs
+C:\Users\alexg\source\repos\c#work\section3\MethodReturns\MethodReturns\obj\Debug\net5.0\MethodReturns.csproj.CoreCompileInputs.cache
+C:\Users\alexg\source\repos\c#work\section3\MethodReturns\MethodReturns\obj\Debug\net5.0\MethodReturns.dll
+C:\Users\alexg\source\repos\c#work\section3\MethodReturns\MethodReturns\obj\Debug\net5.0\refint\MethodReturns.dll
+C:\Users\alexg\source\repos\c#work\section3\MethodReturns\MethodReturns\obj\Debug\net5.0\MethodReturns.pdb
+C:\Users\alexg\source\repos\c#work\section3\MethodReturns\MethodReturns\obj\Debug\net5.0\MethodReturns.genruntimeconfig.cache
+C:\Users\alexg\source\repos\c#work\section3\MethodReturns\MethodReturns\obj\Debug\net5.0\ref\MethodReturns.dll

@@ -1,0 +1,16 @@
+C:\Users\alexg\source\repos\c#work\section3\operators\operators\bin\Debug\net5.0\operators.exe
+C:\Users\alexg\source\repos\c#work\section3\operators\operators\bin\Debug\net5.0\operators.deps.json
+C:\Users\alexg\source\repos\c#work\section3\operators\operators\bin\Debug\net5.0\operators.runtimeconfig.json
+C:\Users\alexg\source\repos\c#work\section3\operators\operators\bin\Debug\net5.0\operators.runtimeconfig.dev.json
+C:\Users\alexg\source\repos\c#work\section3\operators\operators\bin\Debug\net5.0\operators.dll
+C:\Users\alexg\source\repos\c#work\section3\operators\operators\bin\Debug\net5.0\operators.pdb
+C:\Users\alexg\source\repos\c#work\section3\operators\operators\obj\Debug\net5.0\operators.csproj.AssemblyReference.cache
+C:\Users\alexg\source\repos\c#work\section3\operators\operators\obj\Debug\net5.0\operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexg\source\repos\c#work\section3\operators\operators\obj\Debug\net5.0\operators.AssemblyInfoInputs.cache
+C:\Users\alexg\source\repos\c#work\section3\operators\operators\obj\Debug\net5.0\operators.AssemblyInfo.cs
+C:\Users\alexg\source\repos\c#work\section3\operators\operators\obj\Debug\net5.0\operators.csproj.CoreCompileInputs.cache
+C:\Users\alexg\source\repos\c#work\section3\operators\operators\obj\Debug\net5.0\operators.dll
+C:\Users\alexg\source\repos\c#work\section3\operators\operators\obj\Debug\net5.0\refint\operators.dll
+C:\Users\alexg\source\repos\c#work\section3\operators\operators\obj\Debug\net5.0\operators.pdb
+C:\Users\alexg\source\repos\c#work\section3\operators\operators\obj\Debug\net5.0\operators.genruntimeconfig.cache
+C:\Users\alexg\source\repos\c#work\section3\operators\operators\obj\Debug\net5.0\ref\operators.dll

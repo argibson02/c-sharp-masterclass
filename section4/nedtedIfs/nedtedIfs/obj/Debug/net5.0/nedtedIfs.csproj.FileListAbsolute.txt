@@ -1,0 +1,16 @@
+C:\Users\alexg\source\repos\c#work\section4\nedtedIfs\nedtedIfs\bin\Debug\net5.0\nedtedIfs.exe
+C:\Users\alexg\source\repos\c#work\section4\nedtedIfs\nedtedIfs\bin\Debug\net5.0\nedtedIfs.deps.json
+C:\Users\alexg\source\repos\c#work\section4\nedtedIfs\nedtedIfs\bin\Debug\net5.0\nedtedIfs.runtimeconfig.json
+C:\Users\alexg\source\repos\c#work\section4\nedtedIfs\nedtedIfs\bin\Debug\net5.0\nedtedIfs.runtimeconfig.dev.json
+C:\Users\alexg\source\repos\c#work\section4\nedtedIfs\nedtedIfs\bin\Debug\net5.0\nedtedIfs.dll
+C:\Users\alexg\source\repos\c#work\section4\nedtedIfs\nedtedIfs\bin\Debug\net5.0\nedtedIfs.pdb
+C:\Users\alexg\source\repos\c#work\section4\nedtedIfs\nedtedIfs\obj\Debug\net5.0\nedtedIfs.csproj.AssemblyReference.cache
+C:\Users\alexg\source\repos\c#work\section4\nedtedIfs\nedtedIfs\obj\Debug\net5.0\nedtedIfs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexg\source\repos\c#work\section4\nedtedIfs\nedtedIfs\obj\Debug\net5.0\nedtedIfs.AssemblyInfoInputs.cache
+C:\Users\alexg\source\repos\c#work\section4\nedtedIfs\nedtedIfs\obj\Debug\net5.0\nedtedIfs.AssemblyInfo.cs
+C:\Users\alexg\source\repos\c#work\section4\nedtedIfs\nedtedIfs\obj\Debug\net5.0\nedtedIfs.csproj.CoreCompileInputs.cache
+C:\Users\alexg\source\repos\c#work\section4\nedtedIfs\nedtedIfs\obj\Debug\net5.0\nedtedIfs.dll
+C:\Users\alexg\source\repos\c#work\section4\nedtedIfs\nedtedIfs\obj\Debug\net5.0\refint\nedtedIfs.dll
+C:\Users\alexg\source\repos\c#work\section4\nedtedIfs\nedtedIfs\obj\Debug\net5.0\nedtedIfs.pdb
+C:\Users\alexg\source\repos\c#work\section4\nedtedIfs\nedtedIfs\obj\Debug\net5.0\nedtedIfs.genruntimeconfig.cache
+C:\Users\alexg\source\repos\c#work\section4\nedtedIfs\nedtedIfs\obj\Debug\net5.0\ref\nedtedIfs.dll

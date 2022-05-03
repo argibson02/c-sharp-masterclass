@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "chap2-challenge1/1.0.0": {
+        "runtime": {
+          "chap2-challenge1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "chap2-challenge1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

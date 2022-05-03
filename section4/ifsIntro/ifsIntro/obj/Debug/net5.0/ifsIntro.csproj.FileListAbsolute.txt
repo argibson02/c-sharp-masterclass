@@ -1,0 +1,16 @@
+C:\Users\alexg\source\repos\c#work\section4\ifsIntro\ifsIntro\bin\Debug\net5.0\ifsIntro.exe
+C:\Users\alexg\source\repos\c#work\section4\ifsIntro\ifsIntro\bin\Debug\net5.0\ifsIntro.deps.json
+C:\Users\alexg\source\repos\c#work\section4\ifsIntro\ifsIntro\bin\Debug\net5.0\ifsIntro.runtimeconfig.json
+C:\Users\alexg\source\repos\c#work\section4\ifsIntro\ifsIntro\bin\Debug\net5.0\ifsIntro.runtimeconfig.dev.json
+C:\Users\alexg\source\repos\c#work\section4\ifsIntro\ifsIntro\bin\Debug\net5.0\ifsIntro.dll
+C:\Users\alexg\source\repos\c#work\section4\ifsIntro\ifsIntro\bin\Debug\net5.0\ifsIntro.pdb
+C:\Users\alexg\source\repos\c#work\section4\ifsIntro\ifsIntro\obj\Debug\net5.0\ifsIntro.csproj.AssemblyReference.cache
+C:\Users\alexg\source\repos\c#work\section4\ifsIntro\ifsIntro\obj\Debug\net5.0\ifsIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexg\source\repos\c#work\section4\ifsIntro\ifsIntro\obj\Debug\net5.0\ifsIntro.AssemblyInfoInputs.cache
+C:\Users\alexg\source\repos\c#work\section4\ifsIntro\ifsIntro\obj\Debug\net5.0\ifsIntro.AssemblyInfo.cs
+C:\Users\alexg\source\repos\c#work\section4\ifsIntro\ifsIntro\obj\Debug\net5.0\ifsIntro.csproj.CoreCompileInputs.cache
+C:\Users\alexg\source\repos\c#work\section4\ifsIntro\ifsIntro\obj\Debug\net5.0\ifsIntro.dll
+C:\Users\alexg\source\repos\c#work\section4\ifsIntro\ifsIntro\obj\Debug\net5.0\refint\ifsIntro.dll
+C:\Users\alexg\source\repos\c#work\section4\ifsIntro\ifsIntro\obj\Debug\net5.0\ifsIntro.pdb
+C:\Users\alexg\source\repos\c#work\section4\ifsIntro\ifsIntro\obj\Debug\net5.0\ifsIntro.genruntimeconfig.cache
+C:\Users\alexg\source\repos\c#work\section4\ifsIntro\ifsIntro\obj\Debug\net5.0\ref\ifsIntro.dll

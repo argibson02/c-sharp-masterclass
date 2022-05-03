@@ -1,0 +1,16 @@
+C:\Users\alexg\source\repos\c#work\section5\whileLoop\whileLoop\bin\Debug\net5.0\whileLoop.exe
+C:\Users\alexg\source\repos\c#work\section5\whileLoop\whileLoop\bin\Debug\net5.0\whileLoop.deps.json
+C:\Users\alexg\source\repos\c#work\section5\whileLoop\whileLoop\bin\Debug\net5.0\whileLoop.runtimeconfig.json
+C:\Users\alexg\source\repos\c#work\section5\whileLoop\whileLoop\bin\Debug\net5.0\whileLoop.runtimeconfig.dev.json
+C:\Users\alexg\source\repos\c#work\section5\whileLoop\whileLoop\bin\Debug\net5.0\whileLoop.dll
+C:\Users\alexg\source\repos\c#work\section5\whileLoop\whileLoop\bin\Debug\net5.0\whileLoop.pdb
+C:\Users\alexg\source\repos\c#work\section5\whileLoop\whileLoop\obj\Debug\net5.0\whileLoop.csproj.AssemblyReference.cache
+C:\Users\alexg\source\repos\c#work\section5\whileLoop\whileLoop\obj\Debug\net5.0\whileLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexg\source\repos\c#work\section5\whileLoop\whileLoop\obj\Debug\net5.0\whileLoop.AssemblyInfoInputs.cache
+C:\Users\alexg\source\repos\c#work\section5\whileLoop\whileLoop\obj\Debug\net5.0\whileLoop.AssemblyInfo.cs
+C:\Users\alexg\source\repos\c#work\section5\whileLoop\whileLoop\obj\Debug\net5.0\whileLoop.csproj.CoreCompileInputs.cache
+C:\Users\alexg\source\repos\c#work\section5\whileLoop\whileLoop\obj\Debug\net5.0\whileLoop.dll
+C:\Users\alexg\source\repos\c#work\section5\whileLoop\whileLoop\obj\Debug\net5.0\refint\whileLoop.dll
+C:\Users\alexg\source\repos\c#work\section5\whileLoop\whileLoop\obj\Debug\net5.0\whileLoop.pdb
+C:\Users\alexg\source\repos\c#work\section5\whileLoop\whileLoop\obj\Debug\net5.0\whileLoop.genruntimeconfig.cache
+C:\Users\alexg\source\repos\c#work\section5\whileLoop\whileLoop\obj\Debug\net5.0\ref\whileLoop.dll

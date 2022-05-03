@@ -1,0 +1,16 @@
+C:\Users\alexg\source\repos\c#work\chap2-challenge3\chap2-challenge3\bin\Debug\net5.0\chap2-challenge3.exe
+C:\Users\alexg\source\repos\c#work\chap2-challenge3\chap2-challenge3\bin\Debug\net5.0\chap2-challenge3.deps.json
+C:\Users\alexg\source\repos\c#work\chap2-challenge3\chap2-challenge3\bin\Debug\net5.0\chap2-challenge3.runtimeconfig.json
+C:\Users\alexg\source\repos\c#work\chap2-challenge3\chap2-challenge3\bin\Debug\net5.0\chap2-challenge3.runtimeconfig.dev.json
+C:\Users\alexg\source\repos\c#work\chap2-challenge3\chap2-challenge3\bin\Debug\net5.0\chap2-challenge3.dll
+C:\Users\alexg\source\repos\c#work\chap2-challenge3\chap2-challenge3\bin\Debug\net5.0\chap2-challenge3.pdb
+C:\Users\alexg\source\repos\c#work\chap2-challenge3\chap2-challenge3\obj\Debug\net5.0\chap2-challenge3.csproj.AssemblyReference.cache
+C:\Users\alexg\source\repos\c#work\chap2-challenge3\chap2-challenge3\obj\Debug\net5.0\chap2-challenge3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexg\source\repos\c#work\chap2-challenge3\chap2-challenge3\obj\Debug\net5.0\chap2-challenge3.AssemblyInfoInputs.cache
+C:\Users\alexg\source\repos\c#work\chap2-challenge3\chap2-challenge3\obj\Debug\net5.0\chap2-challenge3.AssemblyInfo.cs
+C:\Users\alexg\source\repos\c#work\chap2-challenge3\chap2-challenge3\obj\Debug\net5.0\chap2-challenge3.csproj.CoreCompileInputs.cache
+C:\Users\alexg\source\repos\c#work\chap2-challenge3\chap2-challenge3\obj\Debug\net5.0\chap2-challenge3.dll
+C:\Users\alexg\source\repos\c#work\chap2-challenge3\chap2-challenge3\obj\Debug\net5.0\refint\chap2-challenge3.dll
+C:\Users\alexg\source\repos\c#work\chap2-challenge3\chap2-challenge3\obj\Debug\net5.0\chap2-challenge3.pdb
+C:\Users\alexg\source\repos\c#work\chap2-challenge3\chap2-challenge3\obj\Debug\net5.0\chap2-challenge3.genruntimeconfig.cache
+C:\Users\alexg\source\repos\c#work\chap2-challenge3\chap2-challenge3\obj\Debug\net5.0\ref\chap2-challenge3.dll

@@ -1,0 +1,16 @@
+C:\Users\alexg\source\repos\c#work\TypesPractice\TypesPractice\bin\Debug\net5.0\TypesPractice.exe
+C:\Users\alexg\source\repos\c#work\TypesPractice\TypesPractice\bin\Debug\net5.0\TypesPractice.deps.json
+C:\Users\alexg\source\repos\c#work\TypesPractice\TypesPractice\bin\Debug\net5.0\TypesPractice.runtimeconfig.json
+C:\Users\alexg\source\repos\c#work\TypesPractice\TypesPractice\bin\Debug\net5.0\TypesPractice.runtimeconfig.dev.json
+C:\Users\alexg\source\repos\c#work\TypesPractice\TypesPractice\bin\Debug\net5.0\TypesPractice.dll
+C:\Users\alexg\source\repos\c#work\TypesPractice\TypesPractice\bin\Debug\net5.0\TypesPractice.pdb
+C:\Users\alexg\source\repos\c#work\TypesPractice\TypesPractice\obj\Debug\net5.0\TypesPractice.csproj.AssemblyReference.cache
+C:\Users\alexg\source\repos\c#work\TypesPractice\TypesPractice\obj\Debug\net5.0\TypesPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexg\source\repos\c#work\TypesPractice\TypesPractice\obj\Debug\net5.0\TypesPractice.AssemblyInfoInputs.cache
+C:\Users\alexg\source\repos\c#work\TypesPractice\TypesPractice\obj\Debug\net5.0\TypesPractice.AssemblyInfo.cs
+C:\Users\alexg\source\repos\c#work\TypesPractice\TypesPractice\obj\Debug\net5.0\TypesPractice.csproj.CoreCompileInputs.cache
+C:\Users\alexg\source\repos\c#work\TypesPractice\TypesPractice\obj\Debug\net5.0\TypesPractice.dll
+C:\Users\alexg\source\repos\c#work\TypesPractice\TypesPractice\obj\Debug\net5.0\refint\TypesPractice.dll
+C:\Users\alexg\source\repos\c#work\TypesPractice\TypesPractice\obj\Debug\net5.0\TypesPractice.pdb
+C:\Users\alexg\source\repos\c#work\TypesPractice\TypesPractice\obj\Debug\net5.0\TypesPractice.genruntimeconfig.cache
+C:\Users\alexg\source\repos\c#work\TypesPractice\TypesPractice\obj\Debug\net5.0\ref\TypesPractice.dll

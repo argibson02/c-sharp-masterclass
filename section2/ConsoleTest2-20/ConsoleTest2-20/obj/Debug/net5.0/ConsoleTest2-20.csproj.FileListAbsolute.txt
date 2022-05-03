@@ -1,0 +1,16 @@
+C:\Users\alexg\source\repos\c#work\ConsoleTest2-20\ConsoleTest2-20\bin\Debug\net5.0\ConsoleTest2-20.exe
+C:\Users\alexg\source\repos\c#work\ConsoleTest2-20\ConsoleTest2-20\bin\Debug\net5.0\ConsoleTest2-20.deps.json
+C:\Users\alexg\source\repos\c#work\ConsoleTest2-20\ConsoleTest2-20\bin\Debug\net5.0\ConsoleTest2-20.runtimeconfig.json
+C:\Users\alexg\source\repos\c#work\ConsoleTest2-20\ConsoleTest2-20\bin\Debug\net5.0\ConsoleTest2-20.runtimeconfig.dev.json
+C:\Users\alexg\source\repos\c#work\ConsoleTest2-20\ConsoleTest2-20\bin\Debug\net5.0\ConsoleTest2-20.dll
+C:\Users\alexg\source\repos\c#work\ConsoleTest2-20\ConsoleTest2-20\bin\Debug\net5.0\ConsoleTest2-20.pdb
+C:\Users\alexg\source\repos\c#work\ConsoleTest2-20\ConsoleTest2-20\obj\Debug\net5.0\ConsoleTest2-20.csproj.AssemblyReference.cache
+C:\Users\alexg\source\repos\c#work\ConsoleTest2-20\ConsoleTest2-20\obj\Debug\net5.0\ConsoleTest2-20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexg\source\repos\c#work\ConsoleTest2-20\ConsoleTest2-20\obj\Debug\net5.0\ConsoleTest2-20.AssemblyInfoInputs.cache
+C:\Users\alexg\source\repos\c#work\ConsoleTest2-20\ConsoleTest2-20\obj\Debug\net5.0\ConsoleTest2-20.AssemblyInfo.cs
+C:\Users\alexg\source\repos\c#work\ConsoleTest2-20\ConsoleTest2-20\obj\Debug\net5.0\ConsoleTest2-20.csproj.CoreCompileInputs.cache
+C:\Users\alexg\source\repos\c#work\ConsoleTest2-20\ConsoleTest2-20\obj\Debug\net5.0\ConsoleTest2-20.dll
+C:\Users\alexg\source\repos\c#work\ConsoleTest2-20\ConsoleTest2-20\obj\Debug\net5.0\refint\ConsoleTest2-20.dll
+C:\Users\alexg\source\repos\c#work\ConsoleTest2-20\ConsoleTest2-20\obj\Debug\net5.0\ConsoleTest2-20.pdb
+C:\Users\alexg\source\repos\c#work\ConsoleTest2-20\ConsoleTest2-20\obj\Debug\net5.0\ConsoleTest2-20.genruntimeconfig.cache
+C:\Users\alexg\source\repos\c#work\ConsoleTest2-20\ConsoleTest2-20\obj\Debug\net5.0\ref\ConsoleTest2-20.dll

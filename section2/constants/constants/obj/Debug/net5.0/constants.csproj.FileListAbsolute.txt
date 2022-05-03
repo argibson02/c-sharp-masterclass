@@ -1,0 +1,16 @@
+C:\Users\alexg\source\repos\c#work\constants\constants\bin\Debug\net5.0\constants.exe
+C:\Users\alexg\source\repos\c#work\constants\constants\bin\Debug\net5.0\constants.deps.json
+C:\Users\alexg\source\repos\c#work\constants\constants\bin\Debug\net5.0\constants.runtimeconfig.json
+C:\Users\alexg\source\repos\c#work\constants\constants\bin\Debug\net5.0\constants.runtimeconfig.dev.json
+C:\Users\alexg\source\repos\c#work\constants\constants\bin\Debug\net5.0\constants.dll
+C:\Users\alexg\source\repos\c#work\constants\constants\bin\Debug\net5.0\constants.pdb
+C:\Users\alexg\source\repos\c#work\constants\constants\obj\Debug\net5.0\constants.csproj.AssemblyReference.cache
+C:\Users\alexg\source\repos\c#work\constants\constants\obj\Debug\net5.0\constants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexg\source\repos\c#work\constants\constants\obj\Debug\net5.0\constants.AssemblyInfoInputs.cache
+C:\Users\alexg\source\repos\c#work\constants\constants\obj\Debug\net5.0\constants.AssemblyInfo.cs
+C:\Users\alexg\source\repos\c#work\constants\constants\obj\Debug\net5.0\constants.csproj.CoreCompileInputs.cache
+C:\Users\alexg\source\repos\c#work\constants\constants\obj\Debug\net5.0\constants.dll
+C:\Users\alexg\source\repos\c#work\constants\constants\obj\Debug\net5.0\refint\constants.dll
+C:\Users\alexg\source\repos\c#work\constants\constants\obj\Debug\net5.0\constants.pdb
+C:\Users\alexg\source\repos\c#work\constants\constants\obj\Debug\net5.0\constants.genruntimeconfig.cache
+C:\Users\alexg\source\repos\c#work\constants\constants\obj\Debug\net5.0\ref\constants.dll

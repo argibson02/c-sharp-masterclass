@@ -1,0 +1,16 @@
+C:\Users\alexg\source\repos\c#work\ImplicientConversion\ImplicientConversion\bin\Debug\net5.0\ImplicientConversion.exe
+C:\Users\alexg\source\repos\c#work\ImplicientConversion\ImplicientConversion\bin\Debug\net5.0\ImplicientConversion.deps.json
+C:\Users\alexg\source\repos\c#work\ImplicientConversion\ImplicientConversion\bin\Debug\net5.0\ImplicientConversion.runtimeconfig.json
+C:\Users\alexg\source\repos\c#work\ImplicientConversion\ImplicientConversion\bin\Debug\net5.0\ImplicientConversion.runtimeconfig.dev.json
+C:\Users\alexg\source\repos\c#work\ImplicientConversion\ImplicientConversion\bin\Debug\net5.0\ImplicientConversion.dll
+C:\Users\alexg\source\repos\c#work\ImplicientConversion\ImplicientConversion\bin\Debug\net5.0\ImplicientConversion.pdb
+C:\Users\alexg\source\repos\c#work\ImplicientConversion\ImplicientConversion\obj\Debug\net5.0\ImplicientConversion.csproj.AssemblyReference.cache
+C:\Users\alexg\source\repos\c#work\ImplicientConversion\ImplicientConversion\obj\Debug\net5.0\ImplicientConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexg\source\repos\c#work\ImplicientConversion\ImplicientConversion\obj\Debug\net5.0\ImplicientConversion.AssemblyInfoInputs.cache
+C:\Users\alexg\source\repos\c#work\ImplicientConversion\ImplicientConversion\obj\Debug\net5.0\ImplicientConversion.AssemblyInfo.cs
+C:\Users\alexg\source\repos\c#work\ImplicientConversion\ImplicientConversion\obj\Debug\net5.0\ImplicientConversion.csproj.CoreCompileInputs.cache
+C:\Users\alexg\source\repos\c#work\ImplicientConversion\ImplicientConversion\obj\Debug\net5.0\ImplicientConversion.dll
+C:\Users\alexg\source\repos\c#work\ImplicientConversion\ImplicientConversion\obj\Debug\net5.0\refint\ImplicientConversion.dll
+C:\Users\alexg\source\repos\c#work\ImplicientConversion\ImplicientConversion\obj\Debug\net5.0\ImplicientConversion.pdb
+C:\Users\alexg\source\repos\c#work\ImplicientConversion\ImplicientConversion\obj\Debug\net5.0\ImplicientConversion.genruntimeconfig.cache
+C:\Users\alexg\source\repos\c#work\ImplicientConversion\ImplicientConversion\obj\Debug\net5.0\ref\ImplicientConversion.dll

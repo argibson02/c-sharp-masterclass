@@ -1,0 +1,16 @@
+C:\Users\alexg\source\repos\c#work\section4\ternaryOperator\ternaryOperator\bin\Debug\net5.0\ternaryOperator.exe
+C:\Users\alexg\source\repos\c#work\section4\ternaryOperator\ternaryOperator\bin\Debug\net5.0\ternaryOperator.deps.json
+C:\Users\alexg\source\repos\c#work\section4\ternaryOperator\ternaryOperator\bin\Debug\net5.0\ternaryOperator.runtimeconfig.json
+C:\Users\alexg\source\repos\c#work\section4\ternaryOperator\ternaryOperator\bin\Debug\net5.0\ternaryOperator.runtimeconfig.dev.json
+C:\Users\alexg\source\repos\c#work\section4\ternaryOperator\ternaryOperator\bin\Debug\net5.0\ternaryOperator.dll
+C:\Users\alexg\source\repos\c#work\section4\ternaryOperator\ternaryOperator\bin\Debug\net5.0\ternaryOperator.pdb
+C:\Users\alexg\source\repos\c#work\section4\ternaryOperator\ternaryOperator\obj\Debug\net5.0\ternaryOperator.csproj.AssemblyReference.cache
+C:\Users\alexg\source\repos\c#work\section4\ternaryOperator\ternaryOperator\obj\Debug\net5.0\ternaryOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexg\source\repos\c#work\section4\ternaryOperator\ternaryOperator\obj\Debug\net5.0\ternaryOperator.AssemblyInfoInputs.cache
+C:\Users\alexg\source\repos\c#work\section4\ternaryOperator\ternaryOperator\obj\Debug\net5.0\ternaryOperator.AssemblyInfo.cs
+C:\Users\alexg\source\repos\c#work\section4\ternaryOperator\ternaryOperator\obj\Debug\net5.0\ternaryOperator.csproj.CoreCompileInputs.cache
+C:\Users\alexg\source\repos\c#work\section4\ternaryOperator\ternaryOperator\obj\Debug\net5.0\ternaryOperator.dll
+C:\Users\alexg\source\repos\c#work\section4\ternaryOperator\ternaryOperator\obj\Debug\net5.0\refint\ternaryOperator.dll
+C:\Users\alexg\source\repos\c#work\section4\ternaryOperator\ternaryOperator\obj\Debug\net5.0\ternaryOperator.pdb
+C:\Users\alexg\source\repos\c#work\section4\ternaryOperator\ternaryOperator\obj\Debug\net5.0\ternaryOperator.genruntimeconfig.cache
+C:\Users\alexg\source\repos\c#work\section4\ternaryOperator\ternaryOperator\obj\Debug\net5.0\ref\ternaryOperator.dll

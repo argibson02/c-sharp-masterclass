@@ -1,0 +1,16 @@
+C:\Users\alexg\source\repos\c#work\DotNet5\DotNet5\bin\Debug\net5.0\DotNet5.exe
+C:\Users\alexg\source\repos\c#work\DotNet5\DotNet5\bin\Debug\net5.0\DotNet5.deps.json
+C:\Users\alexg\source\repos\c#work\DotNet5\DotNet5\bin\Debug\net5.0\DotNet5.runtimeconfig.json
+C:\Users\alexg\source\repos\c#work\DotNet5\DotNet5\bin\Debug\net5.0\DotNet5.runtimeconfig.dev.json
+C:\Users\alexg\source\repos\c#work\DotNet5\DotNet5\bin\Debug\net5.0\DotNet5.dll
+C:\Users\alexg\source\repos\c#work\DotNet5\DotNet5\bin\Debug\net5.0\DotNet5.pdb
+C:\Users\alexg\source\repos\c#work\DotNet5\DotNet5\obj\Debug\net5.0\DotNet5.csproj.AssemblyReference.cache
+C:\Users\alexg\source\repos\c#work\DotNet5\DotNet5\obj\Debug\net5.0\DotNet5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexg\source\repos\c#work\DotNet5\DotNet5\obj\Debug\net5.0\DotNet5.AssemblyInfoInputs.cache
+C:\Users\alexg\source\repos\c#work\DotNet5\DotNet5\obj\Debug\net5.0\DotNet5.AssemblyInfo.cs
+C:\Users\alexg\source\repos\c#work\DotNet5\DotNet5\obj\Debug\net5.0\DotNet5.csproj.CoreCompileInputs.cache
+C:\Users\alexg\source\repos\c#work\DotNet5\DotNet5\obj\Debug\net5.0\DotNet5.dll
+C:\Users\alexg\source\repos\c#work\DotNet5\DotNet5\obj\Debug\net5.0\refint\DotNet5.dll
+C:\Users\alexg\source\repos\c#work\DotNet5\DotNet5\obj\Debug\net5.0\DotNet5.pdb
+C:\Users\alexg\source\repos\c#work\DotNet5\DotNet5\obj\Debug\net5.0\DotNet5.genruntimeconfig.cache
+C:\Users\alexg\source\repos\c#work\DotNet5\DotNet5\obj\Debug\net5.0\ref\DotNet5.dll

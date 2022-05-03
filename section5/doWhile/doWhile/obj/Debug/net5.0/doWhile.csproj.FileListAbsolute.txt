@@ -1,0 +1,16 @@
+C:\Users\alexg\source\repos\c#work\section5\doWhile\doWhile\bin\Debug\net5.0\doWhile.exe
+C:\Users\alexg\source\repos\c#work\section5\doWhile\doWhile\bin\Debug\net5.0\doWhile.deps.json
+C:\Users\alexg\source\repos\c#work\section5\doWhile\doWhile\bin\Debug\net5.0\doWhile.runtimeconfig.json
+C:\Users\alexg\source\repos\c#work\section5\doWhile\doWhile\bin\Debug\net5.0\doWhile.runtimeconfig.dev.json
+C:\Users\alexg\source\repos\c#work\section5\doWhile\doWhile\bin\Debug\net5.0\doWhile.dll
+C:\Users\alexg\source\repos\c#work\section5\doWhile\doWhile\bin\Debug\net5.0\doWhile.pdb
+C:\Users\alexg\source\repos\c#work\section5\doWhile\doWhile\obj\Debug\net5.0\doWhile.csproj.AssemblyReference.cache
+C:\Users\alexg\source\repos\c#work\section5\doWhile\doWhile\obj\Debug\net5.0\doWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexg\source\repos\c#work\section5\doWhile\doWhile\obj\Debug\net5.0\doWhile.AssemblyInfoInputs.cache
+C:\Users\alexg\source\repos\c#work\section5\doWhile\doWhile\obj\Debug\net5.0\doWhile.AssemblyInfo.cs
+C:\Users\alexg\source\repos\c#work\section5\doWhile\doWhile\obj\Debug\net5.0\doWhile.csproj.CoreCompileInputs.cache
+C:\Users\alexg\source\repos\c#work\section5\doWhile\doWhile\obj\Debug\net5.0\doWhile.dll
+C:\Users\alexg\source\repos\c#work\section5\doWhile\doWhile\obj\Debug\net5.0\refint\doWhile.dll
+C:\Users\alexg\source\repos\c#work\section5\doWhile\doWhile\obj\Debug\net5.0\doWhile.pdb
+C:\Users\alexg\source\repos\c#work\section5\doWhile\doWhile\obj\Debug\net5.0\doWhile.genruntimeconfig.cache
+C:\Users\alexg\source\repos\c#work\section5\doWhile\doWhile\obj\Debug\net5.0\ref\doWhile.dll

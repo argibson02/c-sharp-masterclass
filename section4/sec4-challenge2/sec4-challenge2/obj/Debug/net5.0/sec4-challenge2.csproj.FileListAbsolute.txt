@@ -1,0 +1,16 @@
+C:\Users\alexg\source\repos\c#work\section4\sec4-challenge2\sec4-challenge2\bin\Debug\net5.0\sec4-challenge2.exe
+C:\Users\alexg\source\repos\c#work\section4\sec4-challenge2\sec4-challenge2\bin\Debug\net5.0\sec4-challenge2.deps.json
+C:\Users\alexg\source\repos\c#work\section4\sec4-challenge2\sec4-challenge2\bin\Debug\net5.0\sec4-challenge2.runtimeconfig.json
+C:\Users\alexg\source\repos\c#work\section4\sec4-challenge2\sec4-challenge2\bin\Debug\net5.0\sec4-challenge2.runtimeconfig.dev.json
+C:\Users\alexg\source\repos\c#work\section4\sec4-challenge2\sec4-challenge2\bin\Debug\net5.0\sec4-challenge2.dll
+C:\Users\alexg\source\repos\c#work\section4\sec4-challenge2\sec4-challenge2\bin\Debug\net5.0\sec4-challenge2.pdb
+C:\Users\alexg\source\repos\c#work\section4\sec4-challenge2\sec4-challenge2\obj\Debug\net5.0\sec4-challenge2.csproj.AssemblyReference.cache
+C:\Users\alexg\source\repos\c#work\section4\sec4-challenge2\sec4-challenge2\obj\Debug\net5.0\sec4-challenge2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexg\source\repos\c#work\section4\sec4-challenge2\sec4-challenge2\obj\Debug\net5.0\sec4-challenge2.AssemblyInfoInputs.cache
+C:\Users\alexg\source\repos\c#work\section4\sec4-challenge2\sec4-challenge2\obj\Debug\net5.0\sec4-challenge2.AssemblyInfo.cs
+C:\Users\alexg\source\repos\c#work\section4\sec4-challenge2\sec4-challenge2\obj\Debug\net5.0\sec4-challenge2.csproj.CoreCompileInputs.cache
+C:\Users\alexg\source\repos\c#work\section4\sec4-challenge2\sec4-challenge2\obj\Debug\net5.0\sec4-challenge2.dll
+C:\Users\alexg\source\repos\c#work\section4\sec4-challenge2\sec4-challenge2\obj\Debug\net5.0\refint\sec4-challenge2.dll
+C:\Users\alexg\source\repos\c#work\section4\sec4-challenge2\sec4-challenge2\obj\Debug\net5.0\sec4-challenge2.pdb
+C:\Users\alexg\source\repos\c#work\section4\sec4-challenge2\sec4-challenge2\obj\Debug\net5.0\sec4-challenge2.genruntimeconfig.cache
+C:\Users\alexg\source\repos\c#work\section4\sec4-challenge2\sec4-challenge2\obj\Debug\net5.0\ref\sec4-challenge2.dll

@@ -1,0 +1,16 @@
+C:\Users\alexg\source\repos\c#work\section3\methodUseInput\methodUseInput\bin\Debug\net5.0\methodUseInput.exe
+C:\Users\alexg\source\repos\c#work\section3\methodUseInput\methodUseInput\bin\Debug\net5.0\methodUseInput.deps.json
+C:\Users\alexg\source\repos\c#work\section3\methodUseInput\methodUseInput\bin\Debug\net5.0\methodUseInput.runtimeconfig.json
+C:\Users\alexg\source\repos\c#work\section3\methodUseInput\methodUseInput\bin\Debug\net5.0\methodUseInput.runtimeconfig.dev.json
+C:\Users\alexg\source\repos\c#work\section3\methodUseInput\methodUseInput\bin\Debug\net5.0\methodUseInput.dll
+C:\Users\alexg\source\repos\c#work\section3\methodUseInput\methodUseInput\bin\Debug\net5.0\methodUseInput.pdb
+C:\Users\alexg\source\repos\c#work\section3\methodUseInput\methodUseInput\obj\Debug\net5.0\methodUseInput.csproj.AssemblyReference.cache
+C:\Users\alexg\source\repos\c#work\section3\methodUseInput\methodUseInput\obj\Debug\net5.0\methodUseInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexg\source\repos\c#work\section3\methodUseInput\methodUseInput\obj\Debug\net5.0\methodUseInput.AssemblyInfoInputs.cache
+C:\Users\alexg\source\repos\c#work\section3\methodUseInput\methodUseInput\obj\Debug\net5.0\methodUseInput.AssemblyInfo.cs
+C:\Users\alexg\source\repos\c#work\section3\methodUseInput\methodUseInput\obj\Debug\net5.0\methodUseInput.csproj.CoreCompileInputs.cache
+C:\Users\alexg\source\repos\c#work\section3\methodUseInput\methodUseInput\obj\Debug\net5.0\methodUseInput.dll
+C:\Users\alexg\source\repos\c#work\section3\methodUseInput\methodUseInput\obj\Debug\net5.0\refint\methodUseInput.dll
+C:\Users\alexg\source\repos\c#work\section3\methodUseInput\methodUseInput\obj\Debug\net5.0\methodUseInput.pdb
+C:\Users\alexg\source\repos\c#work\section3\methodUseInput\methodUseInput\obj\Debug\net5.0\methodUseInput.genruntimeconfig.cache
+C:\Users\alexg\source\repos\c#work\section3\methodUseInput\methodUseInput\obj\Debug\net5.0\ref\methodUseInput.dll
