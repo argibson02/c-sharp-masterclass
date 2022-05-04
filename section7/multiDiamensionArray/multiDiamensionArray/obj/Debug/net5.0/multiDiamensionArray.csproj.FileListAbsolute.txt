@@ -1,0 +1,16 @@
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\multiDiamensionArray\multiDiamensionArray\bin\Debug\net5.0\multiDiamensionArray.exe
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\multiDiamensionArray\multiDiamensionArray\bin\Debug\net5.0\multiDiamensionArray.deps.json
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\multiDiamensionArray\multiDiamensionArray\bin\Debug\net5.0\multiDiamensionArray.runtimeconfig.json
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\multiDiamensionArray\multiDiamensionArray\bin\Debug\net5.0\multiDiamensionArray.runtimeconfig.dev.json
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\multiDiamensionArray\multiDiamensionArray\bin\Debug\net5.0\multiDiamensionArray.dll
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\multiDiamensionArray\multiDiamensionArray\bin\Debug\net5.0\multiDiamensionArray.pdb
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\multiDiamensionArray\multiDiamensionArray\obj\Debug\net5.0\multiDiamensionArray.csproj.AssemblyReference.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\multiDiamensionArray\multiDiamensionArray\obj\Debug\net5.0\multiDiamensionArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\multiDiamensionArray\multiDiamensionArray\obj\Debug\net5.0\multiDiamensionArray.AssemblyInfoInputs.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\multiDiamensionArray\multiDiamensionArray\obj\Debug\net5.0\multiDiamensionArray.AssemblyInfo.cs
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\multiDiamensionArray\multiDiamensionArray\obj\Debug\net5.0\multiDiamensionArray.csproj.CoreCompileInputs.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\multiDiamensionArray\multiDiamensionArray\obj\Debug\net5.0\multiDiamensionArray.dll
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\multiDiamensionArray\multiDiamensionArray\obj\Debug\net5.0\refint\multiDiamensionArray.dll
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\multiDiamensionArray\multiDiamensionArray\obj\Debug\net5.0\multiDiamensionArray.pdb
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\multiDiamensionArray\multiDiamensionArray\obj\Debug\net5.0\multiDiamensionArray.genruntimeconfig.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\multiDiamensionArray\multiDiamensionArray\obj\Debug\net5.0\ref\multiDiamensionArray.dll

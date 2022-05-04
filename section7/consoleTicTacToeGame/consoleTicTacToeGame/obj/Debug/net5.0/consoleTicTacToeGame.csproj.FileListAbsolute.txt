@@ -1,0 +1,16 @@
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\consoleTicTacToeGame\consoleTicTacToeGame\bin\Debug\net5.0\consoleTicTacToeGame.exe
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\consoleTicTacToeGame\consoleTicTacToeGame\bin\Debug\net5.0\consoleTicTacToeGame.deps.json
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\consoleTicTacToeGame\consoleTicTacToeGame\bin\Debug\net5.0\consoleTicTacToeGame.runtimeconfig.json
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\consoleTicTacToeGame\consoleTicTacToeGame\bin\Debug\net5.0\consoleTicTacToeGame.runtimeconfig.dev.json
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\consoleTicTacToeGame\consoleTicTacToeGame\bin\Debug\net5.0\consoleTicTacToeGame.dll
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\consoleTicTacToeGame\consoleTicTacToeGame\bin\Debug\net5.0\consoleTicTacToeGame.pdb
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\consoleTicTacToeGame\consoleTicTacToeGame\obj\Debug\net5.0\consoleTicTacToeGame.csproj.AssemblyReference.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\consoleTicTacToeGame\consoleTicTacToeGame\obj\Debug\net5.0\consoleTicTacToeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\consoleTicTacToeGame\consoleTicTacToeGame\obj\Debug\net5.0\consoleTicTacToeGame.AssemblyInfoInputs.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\consoleTicTacToeGame\consoleTicTacToeGame\obj\Debug\net5.0\consoleTicTacToeGame.AssemblyInfo.cs
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\consoleTicTacToeGame\consoleTicTacToeGame\obj\Debug\net5.0\consoleTicTacToeGame.csproj.CoreCompileInputs.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\consoleTicTacToeGame\consoleTicTacToeGame\obj\Debug\net5.0\consoleTicTacToeGame.dll
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\consoleTicTacToeGame\consoleTicTacToeGame\obj\Debug\net5.0\refint\consoleTicTacToeGame.dll
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\consoleTicTacToeGame\consoleTicTacToeGame\obj\Debug\net5.0\consoleTicTacToeGame.pdb
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\consoleTicTacToeGame\consoleTicTacToeGame\obj\Debug\net5.0\consoleTicTacToeGame.genruntimeconfig.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\consoleTicTacToeGame\consoleTicTacToeGame\obj\Debug\net5.0\ref\consoleTicTacToeGame.dll
