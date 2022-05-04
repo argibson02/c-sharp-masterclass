@@ -1,0 +1,16 @@
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section6\arraysStart\arraysStart\bin\Debug\net5.0\arraysStart.exe
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section6\arraysStart\arraysStart\bin\Debug\net5.0\arraysStart.deps.json
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section6\arraysStart\arraysStart\bin\Debug\net5.0\arraysStart.runtimeconfig.json
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section6\arraysStart\arraysStart\bin\Debug\net5.0\arraysStart.runtimeconfig.dev.json
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section6\arraysStart\arraysStart\bin\Debug\net5.0\arraysStart.dll
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section6\arraysStart\arraysStart\bin\Debug\net5.0\arraysStart.pdb
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section6\arraysStart\arraysStart\obj\Debug\net5.0\arraysStart.csproj.AssemblyReference.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section6\arraysStart\arraysStart\obj\Debug\net5.0\arraysStart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section6\arraysStart\arraysStart\obj\Debug\net5.0\arraysStart.AssemblyInfoInputs.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section6\arraysStart\arraysStart\obj\Debug\net5.0\arraysStart.AssemblyInfo.cs
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section6\arraysStart\arraysStart\obj\Debug\net5.0\arraysStart.csproj.CoreCompileInputs.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section6\arraysStart\arraysStart\obj\Debug\net5.0\arraysStart.dll
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section6\arraysStart\arraysStart\obj\Debug\net5.0\refint\arraysStart.dll
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section6\arraysStart\arraysStart\obj\Debug\net5.0\arraysStart.pdb
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section6\arraysStart\arraysStart\obj\Debug\net5.0\arraysStart.genruntimeconfig.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section6\arraysStart\arraysStart\obj\Debug\net5.0\ref\arraysStart.dll

@@ -1,0 +1,16 @@
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\forEachLoop\forEachLoop\bin\Debug\net5.0\forEachLoop.exe
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\forEachLoop\forEachLoop\bin\Debug\net5.0\forEachLoop.deps.json
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\forEachLoop\forEachLoop\bin\Debug\net5.0\forEachLoop.runtimeconfig.json
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\forEachLoop\forEachLoop\bin\Debug\net5.0\forEachLoop.runtimeconfig.dev.json
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\forEachLoop\forEachLoop\bin\Debug\net5.0\forEachLoop.dll
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\forEachLoop\forEachLoop\bin\Debug\net5.0\forEachLoop.pdb
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\forEachLoop\forEachLoop\obj\Debug\net5.0\forEachLoop.csproj.AssemblyReference.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\forEachLoop\forEachLoop\obj\Debug\net5.0\forEachLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\forEachLoop\forEachLoop\obj\Debug\net5.0\forEachLoop.AssemblyInfoInputs.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\forEachLoop\forEachLoop\obj\Debug\net5.0\forEachLoop.AssemblyInfo.cs
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\forEachLoop\forEachLoop\obj\Debug\net5.0\forEachLoop.csproj.CoreCompileInputs.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\forEachLoop\forEachLoop\obj\Debug\net5.0\forEachLoop.dll
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\forEachLoop\forEachLoop\obj\Debug\net5.0\refint\forEachLoop.dll
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\forEachLoop\forEachLoop\obj\Debug\net5.0\forEachLoop.pdb
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\forEachLoop\forEachLoop\obj\Debug\net5.0\forEachLoop.genruntimeconfig.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\forEachLoop\forEachLoop\obj\Debug\net5.0\ref\forEachLoop.dll
