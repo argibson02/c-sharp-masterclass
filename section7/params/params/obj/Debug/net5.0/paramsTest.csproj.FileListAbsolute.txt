@@ -1,0 +1,16 @@
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\params\params\bin\Debug\net5.0\paramsTest.exe
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\params\params\bin\Debug\net5.0\paramsTest.deps.json
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\params\params\bin\Debug\net5.0\paramsTest.runtimeconfig.json
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\params\params\bin\Debug\net5.0\paramsTest.runtimeconfig.dev.json
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\params\params\bin\Debug\net5.0\paramsTest.dll
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\params\params\bin\Debug\net5.0\paramsTest.pdb
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\params\params\obj\Debug\net5.0\paramsTest.csproj.AssemblyReference.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\params\params\obj\Debug\net5.0\paramsTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\params\params\obj\Debug\net5.0\paramsTest.AssemblyInfoInputs.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\params\params\obj\Debug\net5.0\paramsTest.AssemblyInfo.cs
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\params\params\obj\Debug\net5.0\paramsTest.csproj.CoreCompileInputs.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\params\params\obj\Debug\net5.0\paramsTest.dll
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\params\params\obj\Debug\net5.0\refint\paramsTest.dll
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\params\params\obj\Debug\net5.0\paramsTest.pdb
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\params\params\obj\Debug\net5.0\paramsTest.genruntimeconfig.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\params\params\obj\Debug\net5.0\ref\paramsTest.dll

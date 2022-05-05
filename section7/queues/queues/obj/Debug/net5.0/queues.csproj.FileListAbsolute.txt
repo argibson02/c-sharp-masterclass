@@ -1,0 +1,16 @@
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\queues\queues\bin\Debug\net5.0\queues.exe
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\queues\queues\bin\Debug\net5.0\queues.deps.json
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\queues\queues\bin\Debug\net5.0\queues.runtimeconfig.json
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\queues\queues\bin\Debug\net5.0\queues.runtimeconfig.dev.json
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\queues\queues\bin\Debug\net5.0\queues.dll
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\queues\queues\bin\Debug\net5.0\queues.pdb
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\queues\queues\obj\Debug\net5.0\queues.csproj.AssemblyReference.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\queues\queues\obj\Debug\net5.0\queues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\queues\queues\obj\Debug\net5.0\queues.AssemblyInfoInputs.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\queues\queues\obj\Debug\net5.0\queues.AssemblyInfo.cs
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\queues\queues\obj\Debug\net5.0\queues.csproj.CoreCompileInputs.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\queues\queues\obj\Debug\net5.0\queues.dll
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\queues\queues\obj\Debug\net5.0\refint\queues.dll
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\queues\queues\obj\Debug\net5.0\queues.pdb
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\queues\queues\obj\Debug\net5.0\queues.genruntimeconfig.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\queues\queues\obj\Debug\net5.0\ref\queues.dll

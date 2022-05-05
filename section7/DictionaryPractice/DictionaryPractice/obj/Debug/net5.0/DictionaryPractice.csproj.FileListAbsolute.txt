@@ -1,0 +1,16 @@
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\DictionaryPractice\DictionaryPractice\bin\Debug\net5.0\DictionaryPractice.exe
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\DictionaryPractice\DictionaryPractice\bin\Debug\net5.0\DictionaryPractice.deps.json
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\DictionaryPractice\DictionaryPractice\bin\Debug\net5.0\DictionaryPractice.runtimeconfig.json
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\DictionaryPractice\DictionaryPractice\bin\Debug\net5.0\DictionaryPractice.runtimeconfig.dev.json
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\DictionaryPractice\DictionaryPractice\bin\Debug\net5.0\DictionaryPractice.dll
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\DictionaryPractice\DictionaryPractice\bin\Debug\net5.0\DictionaryPractice.pdb
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\DictionaryPractice\DictionaryPractice\obj\Debug\net5.0\DictionaryPractice.csproj.AssemblyReference.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\DictionaryPractice\DictionaryPractice\obj\Debug\net5.0\DictionaryPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\DictionaryPractice\DictionaryPractice\obj\Debug\net5.0\DictionaryPractice.AssemblyInfoInputs.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\DictionaryPractice\DictionaryPractice\obj\Debug\net5.0\DictionaryPractice.AssemblyInfo.cs
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\DictionaryPractice\DictionaryPractice\obj\Debug\net5.0\DictionaryPractice.csproj.CoreCompileInputs.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\DictionaryPractice\DictionaryPractice\obj\Debug\net5.0\DictionaryPractice.dll
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\DictionaryPractice\DictionaryPractice\obj\Debug\net5.0\refint\DictionaryPractice.dll
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\DictionaryPractice\DictionaryPractice\obj\Debug\net5.0\DictionaryPractice.pdb
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\DictionaryPractice\DictionaryPractice\obj\Debug\net5.0\DictionaryPractice.genruntimeconfig.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\DictionaryPractice\DictionaryPractice\obj\Debug\net5.0\ref\DictionaryPractice.dll

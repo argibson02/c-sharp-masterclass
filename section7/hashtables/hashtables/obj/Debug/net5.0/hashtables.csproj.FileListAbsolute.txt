@@ -1,0 +1,16 @@
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\hashtables\hashtables\bin\Debug\net5.0\hashtables.exe
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\hashtables\hashtables\bin\Debug\net5.0\hashtables.deps.json
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\hashtables\hashtables\bin\Debug\net5.0\hashtables.runtimeconfig.json
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\hashtables\hashtables\bin\Debug\net5.0\hashtables.runtimeconfig.dev.json
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\hashtables\hashtables\bin\Debug\net5.0\hashtables.dll
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\hashtables\hashtables\bin\Debug\net5.0\hashtables.pdb
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\hashtables\hashtables\obj\Debug\net5.0\hashtables.csproj.AssemblyReference.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\hashtables\hashtables\obj\Debug\net5.0\hashtables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\hashtables\hashtables\obj\Debug\net5.0\hashtables.AssemblyInfoInputs.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\hashtables\hashtables\obj\Debug\net5.0\hashtables.AssemblyInfo.cs
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\hashtables\hashtables\obj\Debug\net5.0\hashtables.csproj.CoreCompileInputs.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\hashtables\hashtables\obj\Debug\net5.0\hashtables.dll
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\hashtables\hashtables\obj\Debug\net5.0\refint\hashtables.dll
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\hashtables\hashtables\obj\Debug\net5.0\hashtables.pdb
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\hashtables\hashtables\obj\Debug\net5.0\hashtables.genruntimeconfig.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\hashtables\hashtables\obj\Debug\net5.0\ref\hashtables.dll

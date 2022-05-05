@@ -1,0 +1,16 @@
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\arrayParameter\arrayParameter\bin\Debug\net5.0\arrayParameter.exe
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\arrayParameter\arrayParameter\bin\Debug\net5.0\arrayParameter.deps.json
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\arrayParameter\arrayParameter\bin\Debug\net5.0\arrayParameter.runtimeconfig.json
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\arrayParameter\arrayParameter\bin\Debug\net5.0\arrayParameter.runtimeconfig.dev.json
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\arrayParameter\arrayParameter\bin\Debug\net5.0\arrayParameter.dll
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\arrayParameter\arrayParameter\bin\Debug\net5.0\arrayParameter.pdb
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\arrayParameter\arrayParameter\obj\Debug\net5.0\arrayParameter.csproj.AssemblyReference.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\arrayParameter\arrayParameter\obj\Debug\net5.0\arrayParameter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\arrayParameter\arrayParameter\obj\Debug\net5.0\arrayParameter.AssemblyInfoInputs.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\arrayParameter\arrayParameter\obj\Debug\net5.0\arrayParameter.AssemblyInfo.cs
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\arrayParameter\arrayParameter\obj\Debug\net5.0\arrayParameter.csproj.CoreCompileInputs.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\arrayParameter\arrayParameter\obj\Debug\net5.0\arrayParameter.dll
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\arrayParameter\arrayParameter\obj\Debug\net5.0\refint\arrayParameter.dll
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\arrayParameter\arrayParameter\obj\Debug\net5.0\arrayParameter.pdb
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\arrayParameter\arrayParameter\obj\Debug\net5.0\arrayParameter.genruntimeconfig.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\arrayParameter\arrayParameter\obj\Debug\net5.0\ref\arrayParameter.dll

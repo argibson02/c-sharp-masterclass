@@ -1,0 +1,16 @@
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\collectionsList\collectionsList\bin\Debug\net5.0\collectionsList.exe
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\collectionsList\collectionsList\bin\Debug\net5.0\collectionsList.deps.json
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\collectionsList\collectionsList\bin\Debug\net5.0\collectionsList.runtimeconfig.json
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\collectionsList\collectionsList\bin\Debug\net5.0\collectionsList.runtimeconfig.dev.json
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\collectionsList\collectionsList\bin\Debug\net5.0\collectionsList.dll
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\collectionsList\collectionsList\bin\Debug\net5.0\collectionsList.pdb
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\collectionsList\collectionsList\obj\Debug\net5.0\collectionsList.csproj.AssemblyReference.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\collectionsList\collectionsList\obj\Debug\net5.0\collectionsList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\collectionsList\collectionsList\obj\Debug\net5.0\collectionsList.AssemblyInfoInputs.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\collectionsList\collectionsList\obj\Debug\net5.0\collectionsList.AssemblyInfo.cs
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\collectionsList\collectionsList\obj\Debug\net5.0\collectionsList.csproj.CoreCompileInputs.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\collectionsList\collectionsList\obj\Debug\net5.0\collectionsList.dll
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\collectionsList\collectionsList\obj\Debug\net5.0\refint\collectionsList.dll
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\collectionsList\collectionsList\obj\Debug\net5.0\collectionsList.pdb
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\collectionsList\collectionsList\obj\Debug\net5.0\collectionsList.genruntimeconfig.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section7\collectionsList\collectionsList\obj\Debug\net5.0\ref\collectionsList.dll
