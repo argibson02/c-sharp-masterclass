@@ -1,0 +1,16 @@
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section9\virtuals\virtuals\bin\Debug\net5.0\virtuals.exe
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section9\virtuals\virtuals\bin\Debug\net5.0\virtuals.deps.json
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section9\virtuals\virtuals\bin\Debug\net5.0\virtuals.runtimeconfig.json
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section9\virtuals\virtuals\bin\Debug\net5.0\virtuals.runtimeconfig.dev.json
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section9\virtuals\virtuals\bin\Debug\net5.0\virtuals.dll
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section9\virtuals\virtuals\bin\Debug\net5.0\virtuals.pdb
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section9\virtuals\virtuals\obj\Debug\net5.0\virtuals.csproj.AssemblyReference.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section9\virtuals\virtuals\obj\Debug\net5.0\virtuals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section9\virtuals\virtuals\obj\Debug\net5.0\virtuals.AssemblyInfoInputs.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section9\virtuals\virtuals\obj\Debug\net5.0\virtuals.AssemblyInfo.cs
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section9\virtuals\virtuals\obj\Debug\net5.0\virtuals.csproj.CoreCompileInputs.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section9\virtuals\virtuals\obj\Debug\net5.0\virtuals.dll
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section9\virtuals\virtuals\obj\Debug\net5.0\refint\virtuals.dll
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section9\virtuals\virtuals\obj\Debug\net5.0\virtuals.pdb
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section9\virtuals\virtuals\obj\Debug\net5.0\virtuals.genruntimeconfig.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section9\virtuals\virtuals\obj\Debug\net5.0\ref\virtuals.dll

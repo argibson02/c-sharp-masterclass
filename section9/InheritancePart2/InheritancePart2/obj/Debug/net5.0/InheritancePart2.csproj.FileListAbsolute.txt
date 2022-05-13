@@ -1,0 +1,16 @@
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section9\InheritancePart2\InheritancePart2\bin\Debug\net5.0\InheritancePart2.exe
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section9\InheritancePart2\InheritancePart2\bin\Debug\net5.0\InheritancePart2.deps.json
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section9\InheritancePart2\InheritancePart2\bin\Debug\net5.0\InheritancePart2.runtimeconfig.json
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section9\InheritancePart2\InheritancePart2\bin\Debug\net5.0\InheritancePart2.runtimeconfig.dev.json
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section9\InheritancePart2\InheritancePart2\bin\Debug\net5.0\InheritancePart2.dll
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section9\InheritancePart2\InheritancePart2\bin\Debug\net5.0\InheritancePart2.pdb
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section9\InheritancePart2\InheritancePart2\obj\Debug\net5.0\InheritancePart2.csproj.AssemblyReference.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section9\InheritancePart2\InheritancePart2\obj\Debug\net5.0\InheritancePart2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section9\InheritancePart2\InheritancePart2\obj\Debug\net5.0\InheritancePart2.AssemblyInfoInputs.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section9\InheritancePart2\InheritancePart2\obj\Debug\net5.0\InheritancePart2.AssemblyInfo.cs
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section9\InheritancePart2\InheritancePart2\obj\Debug\net5.0\InheritancePart2.csproj.CoreCompileInputs.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section9\InheritancePart2\InheritancePart2\obj\Debug\net5.0\InheritancePart2.dll
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section9\InheritancePart2\InheritancePart2\obj\Debug\net5.0\refint\InheritancePart2.dll
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section9\InheritancePart2\InheritancePart2\obj\Debug\net5.0\InheritancePart2.pdb
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section9\InheritancePart2\InheritancePart2\obj\Debug\net5.0\InheritancePart2.genruntimeconfig.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section9\InheritancePart2\InheritancePart2\obj\Debug\net5.0\ref\InheritancePart2.dll

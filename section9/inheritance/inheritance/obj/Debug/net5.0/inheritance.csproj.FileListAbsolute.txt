@@ -1,0 +1,16 @@
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section9\inheritance\inheritance\bin\Debug\net5.0\inheritance.exe
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section9\inheritance\inheritance\bin\Debug\net5.0\inheritance.deps.json
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section9\inheritance\inheritance\bin\Debug\net5.0\inheritance.runtimeconfig.json
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section9\inheritance\inheritance\bin\Debug\net5.0\inheritance.runtimeconfig.dev.json
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section9\inheritance\inheritance\bin\Debug\net5.0\inheritance.dll
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section9\inheritance\inheritance\bin\Debug\net5.0\inheritance.pdb
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section9\inheritance\inheritance\obj\Debug\net5.0\inheritance.csproj.AssemblyReference.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section9\inheritance\inheritance\obj\Debug\net5.0\inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section9\inheritance\inheritance\obj\Debug\net5.0\inheritance.AssemblyInfoInputs.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section9\inheritance\inheritance\obj\Debug\net5.0\inheritance.AssemblyInfo.cs
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section9\inheritance\inheritance\obj\Debug\net5.0\inheritance.csproj.CoreCompileInputs.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section9\inheritance\inheritance\obj\Debug\net5.0\inheritance.dll
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section9\inheritance\inheritance\obj\Debug\net5.0\refint\inheritance.dll
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section9\inheritance\inheritance\obj\Debug\net5.0\inheritance.pdb
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section9\inheritance\inheritance\obj\Debug\net5.0\inheritance.genruntimeconfig.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section9\inheritance\inheritance\obj\Debug\net5.0\ref\inheritance.dll
