@@ -1,0 +1,16 @@
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section9\iheritanceChallenge2\iheritanceChallenge2\bin\Debug\net5.0\iheritanceChallenge2.exe
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section9\iheritanceChallenge2\iheritanceChallenge2\bin\Debug\net5.0\iheritanceChallenge2.deps.json
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section9\iheritanceChallenge2\iheritanceChallenge2\bin\Debug\net5.0\iheritanceChallenge2.runtimeconfig.json
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section9\iheritanceChallenge2\iheritanceChallenge2\bin\Debug\net5.0\iheritanceChallenge2.runtimeconfig.dev.json
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section9\iheritanceChallenge2\iheritanceChallenge2\bin\Debug\net5.0\iheritanceChallenge2.dll
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section9\iheritanceChallenge2\iheritanceChallenge2\bin\Debug\net5.0\iheritanceChallenge2.pdb
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section9\iheritanceChallenge2\iheritanceChallenge2\obj\Debug\net5.0\iheritanceChallenge2.csproj.AssemblyReference.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section9\iheritanceChallenge2\iheritanceChallenge2\obj\Debug\net5.0\iheritanceChallenge2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section9\iheritanceChallenge2\iheritanceChallenge2\obj\Debug\net5.0\iheritanceChallenge2.AssemblyInfoInputs.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section9\iheritanceChallenge2\iheritanceChallenge2\obj\Debug\net5.0\iheritanceChallenge2.AssemblyInfo.cs
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section9\iheritanceChallenge2\iheritanceChallenge2\obj\Debug\net5.0\iheritanceChallenge2.csproj.CoreCompileInputs.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section9\iheritanceChallenge2\iheritanceChallenge2\obj\Debug\net5.0\iheritanceChallenge2.dll
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section9\iheritanceChallenge2\iheritanceChallenge2\obj\Debug\net5.0\refint\iheritanceChallenge2.dll
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section9\iheritanceChallenge2\iheritanceChallenge2\obj\Debug\net5.0\iheritanceChallenge2.pdb
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section9\iheritanceChallenge2\iheritanceChallenge2\obj\Debug\net5.0\iheritanceChallenge2.genruntimeconfig.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section9\iheritanceChallenge2\iheritanceChallenge2\obj\Debug\net5.0\ref\iheritanceChallenge2.dll
