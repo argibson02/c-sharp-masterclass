@@ -1,0 +1,16 @@
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section10\polymorphismTest\polymorphismTest\obj\Debug\net5.0\polymorphismTest.csproj.AssemblyReference.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section10\polymorphismTest\polymorphismTest\obj\Debug\net5.0\polymorphismTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section10\polymorphismTest\polymorphismTest\obj\Debug\net5.0\polymorphismTest.AssemblyInfoInputs.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section10\polymorphismTest\polymorphismTest\obj\Debug\net5.0\polymorphismTest.AssemblyInfo.cs
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section10\polymorphismTest\polymorphismTest\obj\Debug\net5.0\polymorphismTest.csproj.CoreCompileInputs.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section10\polymorphismTest\polymorphismTest\bin\Debug\net5.0\polymorphismTest.exe
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section10\polymorphismTest\polymorphismTest\bin\Debug\net5.0\polymorphismTest.deps.json
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section10\polymorphismTest\polymorphismTest\bin\Debug\net5.0\polymorphismTest.runtimeconfig.json
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section10\polymorphismTest\polymorphismTest\bin\Debug\net5.0\polymorphismTest.runtimeconfig.dev.json
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section10\polymorphismTest\polymorphismTest\bin\Debug\net5.0\polymorphismTest.dll
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section10\polymorphismTest\polymorphismTest\bin\Debug\net5.0\polymorphismTest.pdb
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section10\polymorphismTest\polymorphismTest\obj\Debug\net5.0\polymorphismTest.dll
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section10\polymorphismTest\polymorphismTest\obj\Debug\net5.0\refint\polymorphismTest.dll
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section10\polymorphismTest\polymorphismTest\obj\Debug\net5.0\polymorphismTest.pdb
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section10\polymorphismTest\polymorphismTest\obj\Debug\net5.0\polymorphismTest.genruntimeconfig.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section10\polymorphismTest\polymorphismTest\obj\Debug\net5.0\ref\polymorphismTest.dll
