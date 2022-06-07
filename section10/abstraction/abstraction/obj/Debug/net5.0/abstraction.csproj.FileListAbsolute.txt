@@ -1,0 +1,16 @@
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section10\abstraction\abstraction\bin\Debug\net5.0\abstraction.exe
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section10\abstraction\abstraction\bin\Debug\net5.0\abstraction.deps.json
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section10\abstraction\abstraction\bin\Debug\net5.0\abstraction.runtimeconfig.json
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section10\abstraction\abstraction\bin\Debug\net5.0\abstraction.runtimeconfig.dev.json
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section10\abstraction\abstraction\bin\Debug\net5.0\abstraction.dll
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section10\abstraction\abstraction\bin\Debug\net5.0\abstraction.pdb
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section10\abstraction\abstraction\obj\Debug\net5.0\abstraction.csproj.AssemblyReference.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section10\abstraction\abstraction\obj\Debug\net5.0\abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section10\abstraction\abstraction\obj\Debug\net5.0\abstraction.AssemblyInfoInputs.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section10\abstraction\abstraction\obj\Debug\net5.0\abstraction.AssemblyInfo.cs
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section10\abstraction\abstraction\obj\Debug\net5.0\abstraction.csproj.CoreCompileInputs.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section10\abstraction\abstraction\obj\Debug\net5.0\abstraction.dll
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section10\abstraction\abstraction\obj\Debug\net5.0\refint\abstraction.dll
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section10\abstraction\abstraction\obj\Debug\net5.0\abstraction.pdb
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section10\abstraction\abstraction\obj\Debug\net5.0\abstraction.genruntimeconfig.cache
+C:\Users\alexg\source\repos\c#work\c-sharp-masterclass\section10\abstraction\abstraction\obj\Debug\net5.0\ref\abstraction.dll
